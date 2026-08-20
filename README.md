@@ -175,9 +175,9 @@ I enjoy working on:
 
 # 📊 GitHub Stats
 
-![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jameslee.remote&show_icons=true&theme=github_dark)
+![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jameslee-remote&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameslee.remote&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameslee-remote&layout=compact&theme=github_dark)
 
 ---
 
